@@ -1,0 +1,54 @@
+[
+{
+"question": "Where is my order?",
+"answer": "Your order is being processed and will ship in 2 days."
+},
+{
+"question": "Can I return a product?",
+"answer": "Yes, returns are accepted within 30 days of purchase. Make sure the product is unused and in original packaging."
+},
+{
+"question": "Do you offer free shipping?",
+"answer": "Free shipping is available for orders above $50. For orders below $50, a small shipping fee applies."
+},
+{
+"question": "Suggest a good laptop under $1000",
+"answer": "You can check the Dell Inspiron 15, HP Pavilion series, or Acer Aspire 5."
+},
+{
+"question": "How long does shipping take?",
+"answer": "Shipping usually takes 3-5 business days depending on your location."
+},
+{
+"question": "Do you provide order tracking?",
+"answer": "Yes, you can track your order with your order ID on our website or mobile app."
+},
+{
+"question": "Can I cancel my order?",
+"answer": "Orders can be canceled within 24 hours of placement. After that, you may need to process a return once delivered."
+},
+{
+"question": "Do you offer warranty on products?",
+"answer": "Yes, most products come with a 1-year manufacturer warranty. Check product details for specific information."
+},
+{
+"question": "Do you have discounts for bulk orders?",
+"answer": "Yes, we offer special discounts for bulk purchases. Please contact our sales team for details."
+},
+{
+"question": "What payment methods are accepted?",
+"answer": "We accept credit/debit cards, PayPal, and bank transfers."
+},
+{
+"question": "Can you recommend a smartphone under $500?",
+"answer": "You can check the Samsung Galaxy A series, Xiaomi Redmi Note series, or Motorola Moto G series."
+},
+{
+"question": "How do I reset my password?",
+"answer": "Click on 'Forgot Password' on the login page and follow the instructions to reset your password."
+},
+{
+"question": "Is international shipping available?",
+"answer": "Yes, we ship internationally. Shipping costs and delivery times vary depending on the destination."
+}
+]
